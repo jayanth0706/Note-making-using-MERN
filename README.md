@@ -6,18 +6,18 @@ A simple and efficient Note-Making application built using the MERN stack (Mongo
 
 ## Features
 
-- **Create Notes**: Users can create new notes with a title and content.
-- **View Notes**: Display all saved notes on the home page.
-- **Edit Notes**: Users can edit their existing notes.
-- **Delete Notes**: Remove notes that are no longer needed.
-- **Responsive Design**: The app is fully responsive, providing an optimal experience on both desktop and mobile devices.
+- Create Notes: Users can create new notes with a title and content.
+- View Notes: Display all saved notes on the home page.
+- Edit Notes: Users can edit their existing notes.
+- Delete Notes: Remove notes that are no longer needed.
+- Responsive Design: The app is fully responsive, providing an optimal experience on both desktop and mobile devices.
 
 ## Tech Stack
 
-- **Frontend**: React.js (JavaScript, HTML, CSS)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Version Control**: Git
+- Frontend: React.js (JavaScript, HTML, CSS)
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git
 
 ## Installation and Setup
 
@@ -30,14 +30,14 @@ To run this project locally, follow the instructions below:
 
 ### Steps
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/jayanth0706/Note-making-using-MERN.git
    cd Note-making-using-MERN/Note-Making-APP
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
 
    For the frontend (React):
 
@@ -53,11 +53,11 @@ To run this project locally, follow the instructions below:
    npm install
    ```
 
-3. **Set up MongoDB:**
+3. Set up MongoDB:
 
    Make sure you have MongoDB running on your local machine or connect to a MongoDB cloud instance. Update the MongoDB URI in the backend's `.env` file.
 
-4. **Run the app:**
+4. Run the app:
 
    To start the frontend (React):
 
@@ -113,7 +113,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Jayanth0706
-```
+Author: Jayanth0706
 
 This README provides an overview of the project, installation instructions, and some potential improvements. Let me know if you'd like to add anything specific!
